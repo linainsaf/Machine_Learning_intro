@@ -121,7 +121,8 @@ The commonly used metrics and methods for assessing the performance of predictiv
 ## Neural network
 
 <br/>
-A neural network is a sequence of neurons connected by synapses, which reminds of the structure of the human brain. However, the human brain is even more complex. What is great about neural networks is that they can be used for basically any task from spam filtering to computer vision. However, they are normally applied for machine translation, anomaly detection and risk management, speech recognition and language generation, face recognition, and more.
+
+A neural network is a mathematical model that is designed to behave similar to biolog-ical neurons and nervous system.  These models are used to recognize complex patternsand relationships that exists within a labelled data.  A shallow neural network containsmainly three types of layers – input layer, hidden layer, and output layer.
 
 ![Neural Network](screenshots/26ygnpfp.neural_network.jpg)
 
