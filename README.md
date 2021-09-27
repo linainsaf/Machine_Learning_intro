@@ -39,7 +39,7 @@ Bayesian algorithms are a family of probabilistic classifiers used in ML based o
 
 Naive Bayes classifier was one of the first algorithms used for machine learning. It is suitable for binary and multiclass classification and allows for making predictions and forecast data based on historical results.
 
-![Naive Bayes Figure](screenshots/k-nearest-neighbor-algorithm-for-machine-learning2.png)
+![Naive Bayes Figure](screenshots/)
 
 <br/>
 
