@@ -111,7 +111,12 @@ The commonly used metrics and methods for assessing the performance of predictiv
 - Confusion matrix, which is 2x2 table showing four parameters, including the number of true positives, true negatives, false negatives and false positives.
 - Precision, Recall and Specificity, which are three major performance metrics describing a predictive classification model
 - ROC curve, which is a graphical summary of the overall performance of the model, showing the proportion of true positives and false positives at all possible values of probability cutoff. The Area Under the Curve (AUC) summarizes the overall performance of the classifier.
+- 
+
+![Evaluation metrics](screenshots/eval.png)
+
 <br/>
+
 
 ## Neural network
 
