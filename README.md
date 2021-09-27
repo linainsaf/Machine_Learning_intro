@@ -51,6 +51,7 @@ A random forest algorithm consists of many decision trees. The ‘forest’ gene
 The (random forest) algorithm establishes the outcome based on the predictions of the decision trees. It predicts by taking the average or mean of the output from various trees. Increasing the number of trees increases the precision of the outcome.
 
 <br/>
+![stack Overflow](http://lmsotfy.com/so.png)
 
 
 
