@@ -39,7 +39,7 @@ Bayesian algorithms are a family of probabilistic classifiers used in ML based o
 
 Naive Bayes classifier was one of the first algorithms used for machine learning. It is suitable for binary and multiclass classification and allows for making predictions and forecast data based on historical results.
 
-![Naive Bayes Figure](screenshots/)
+![Naive Bayes Figure](screenshots/naivebayes.png)
 
 <br/>
 
@@ -53,7 +53,7 @@ A random forest algorithm consists of many decision trees. The ‘forest’ gene
 
 The (random forest) algorithm establishes the outcome based on the predictions of the decision trees. It predicts by taking the average or mean of the output from various trees. Increasing the number of trees increases the precision of the outcome.
 
-![Random forest figure](screenshots/3406775c0c6f8fd9f8701c7ca671dad9.png)
+![Random forest figure](screenshots/random_forest.jpg)
 
 <br/>
 
@@ -67,7 +67,7 @@ The goal of the SVM is to find a hyperplane in an N-dimensional space (where N c
 
 This hyperplane is graphically represented as a line that separates one class from another. Data points that fall on different sides of the hyperplane are attributed to different classes.
 
-![SVM figure](screenshots/)
+![SVM figure](screenshots/svm.png)
 
 
 <br/>
@@ -84,7 +84,7 @@ Unsupervised learning is another machine learning method in which patterns infer
 <br/>
 This is one of the simplest classification algorithms sometimes used in regression tasks. To train the classifier, we must have a set of data with predefined classes. The marking is done manually involving specialists in the studied area. Using this algorithm, it is possible to work with multiple classes or clear up the situations where inputs belong to more than one class. The method is based on the assumption that similar labels correspond to close objects in the attribute vector space.
 
-![k-nearest neighbors](screenshots/)
+![k-nearest neighbors](screenshots/k-nn.png)
 
 
 <br/>
@@ -93,6 +93,9 @@ This is one of the simplest classification algorithms sometimes used in regressi
 <br/>
 
 Principal component analysis is an algorithm for feature extraction. it combines the input variables in a specific way, and then it is possible to drop the “least important” variables while still retaining the most valuable parts of all of the variables. One of the possible uses of PCA is when the images in the dataset are too large. A reduced feature representation helps to quickly deal with tasks such as image matching and retrieval.
+
+![pca](screenshots/pca.png)
+
 
 <br/>
 
@@ -115,7 +118,7 @@ The commonly used metrics and methods for assessing the performance of predictiv
 <br/>
 A neural network is a sequence of neurons connected by synapses, which reminds of the structure of the human brain. However, the human brain is even more complex. What is great about neural networks is that they can be used for basically any task from spam filtering to computer vision. However, they are normally applied for machine translation, anomaly detection and risk management, speech recognition and language generation, face recognition, and more.
 
-![Neural Network](screenshots/)
+![Neural Network](screenshots/26ygnpfp.neural_network.jpg)
 
 
 A neural network consists of neurons, or nodes. Each of these neurons receives data, processes it, and then transfers it to another neuron. Every neuron processes the signals the same way. But how then do we get a different result? The synapses that connect neurons to each other are responsible for this. Each neuron is able to have many synapses that attenuate or amplify the signal. Also, neurons are able to change their characteristics over time. By choosing the correct synapse parameters, we will be able to get the correct results of the input information conversion at the output.
