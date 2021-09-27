@@ -38,6 +38,9 @@ We're going to see some supervised learning algorithms:
 Bayesian algorithms are a family of probabilistic classifiers used in ML based on applying Bayes’ theorem.
 
 Naive Bayes classifier was one of the first algorithms used for machine learning. It is suitable for binary and multiclass classification and allows for making predictions and forecast data based on historical results.
+
+![Naive Bayes Figure](screenshots/k-nearest-neighbor-algorithm-for-machine-learning2.png)
+
 <br/>
 
 
@@ -50,8 +53,9 @@ A random forest algorithm consists of many decision trees. The ‘forest’ gene
 
 The (random forest) algorithm establishes the outcome based on the predictions of the decision trees. It predicts by taking the average or mean of the output from various trees. Increasing the number of trees increases the precision of the outcome.
 
+![Random forest figure](screenshots/3406775c0c6f8fd9f8701c7ca671dad9.png)
+
 <br/>
-![stack Overflow](http://lmsotfy.com/so.png)
 
 
 
@@ -62,6 +66,8 @@ Support vector machines are another group of algorithms used for classification 
 The goal of the SVM is to find a hyperplane in an N-dimensional space (where N corresponds with the number of features) that distinctly classifies the data points. The accuracy of the results directly correlates with the hyperplane that we choose. We should find a plane that has the maximum distance between data points of both classes.
 
 This hyperplane is graphically represented as a line that separates one class from another. Data points that fall on different sides of the hyperplane are attributed to different classes.
+
+![SVM figure](screenshots/)
 
 
 <br/>
@@ -77,6 +83,9 @@ Unsupervised learning is another machine learning method in which patterns infer
 ### k-nearest neighbors algorithm
 <br/>
 This is one of the simplest classification algorithms sometimes used in regression tasks. To train the classifier, we must have a set of data with predefined classes. The marking is done manually involving specialists in the studied area. Using this algorithm, it is possible to work with multiple classes or clear up the situations where inputs belong to more than one class. The method is based on the assumption that similar labels correspond to close objects in the attribute vector space.
+
+![k-nearest neighbors](screenshots/)
+
 
 <br/>
 
@@ -105,6 +114,9 @@ The commonly used metrics and methods for assessing the performance of predictiv
 
 <br/>
 A neural network is a sequence of neurons connected by synapses, which reminds of the structure of the human brain. However, the human brain is even more complex. What is great about neural networks is that they can be used for basically any task from spam filtering to computer vision. However, they are normally applied for machine translation, anomaly detection and risk management, speech recognition and language generation, face recognition, and more.
+
+![Neural Network](screenshots/)
+
 
 A neural network consists of neurons, or nodes. Each of these neurons receives data, processes it, and then transfers it to another neuron. Every neuron processes the signals the same way. But how then do we get a different result? The synapses that connect neurons to each other are responsible for this. Each neuron is able to have many synapses that attenuate or amplify the signal. Also, neurons are able to change their characteristics over time. By choosing the correct synapse parameters, we will be able to get the correct results of the input information conversion at the output.
 
